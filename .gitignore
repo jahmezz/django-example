@@ -1,0 +1,6 @@
+# pipenv files
+Pipfile*
+
+# django build files
+db.sqlite3
+*.pyc
